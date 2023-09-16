@@ -34,6 +34,7 @@ identification and attendance management.
 - pydantic
 - jose
 - passlib
+- mysql
 
 ## Contributing
 
