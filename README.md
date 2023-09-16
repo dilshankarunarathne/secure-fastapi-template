@@ -52,6 +52,8 @@ mysql -u root -p
 ```
 
 ```sql
+CREATE DATABASE fastapi;
+```
 
 ## Contributing
 
