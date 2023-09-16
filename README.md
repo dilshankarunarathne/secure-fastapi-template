@@ -1,4 +1,4 @@
-# A System for Student Registration
+# FastAPI Project Template
 
 The REST API for student registration and attendance management system, final year project. 
 
