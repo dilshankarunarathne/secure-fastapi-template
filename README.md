@@ -39,7 +39,9 @@ It has OAuth2 authentication and JWT token generation. It also has a basic user 
 git clone https://github.com/dilshankarunarathne/secure-fastapi-template.git
 ```
 
+2. Install the dependencies
 
+```bash
 
 ## Contributing
 
