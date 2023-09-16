@@ -45,7 +45,9 @@ git clone https://github.com/dilshankarunarathne/secure-fastapi-template.git
 pip install -r requirements.txt
 ```
 
+3. Create a MySQL database
 
+```bash
 
 ## Contributing
 
