@@ -77,10 +77,6 @@ uvicorn main:app --reload
 http://127.0.0.1:8000/auth/login
 ```
 
-7. Use the following credentials to login
-
-```bash
-
 ## Contributing
 
 If you'd like to contribute to this project, please check the contribution guidelines for more information.
