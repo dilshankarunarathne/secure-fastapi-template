@@ -32,6 +32,7 @@ identification and attendance management.
 - fastapi
 - uvicorn
 - pydantic
+- 
 
 ## Contributing
 
