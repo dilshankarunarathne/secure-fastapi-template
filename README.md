@@ -55,6 +55,10 @@ mysql -u root -p
 CREATE DATABASE fastapi;
 ```
 
+4. Create a `.env` file in the root directory and add the following environment variables
+
+```bash
+
 ## Contributing
 
 If you'd like to contribute to this project, please check the contribution guidelines for more information.
