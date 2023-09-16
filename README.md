@@ -15,13 +15,7 @@ The REST API for student registration and attendance management system, final ye
 
 ## Description
 
-This is the API gateway for student registration and attendance management system.  
-This API is built with Python and FastAPI. 
- 
-Lecturers and students can use this system for automating the attendance management process. 
-Uses face recognition for student identification and attendance management. 
-Alternatively, fingerprint recognition and student ID barcode scanning can be used for student 
-identification and attendance management.
+This is a template repository for a FastAPI back-end project. It is intended to be used as a starting point for a new project. It is configured to be deployed to Heroku.
 
 ## Installation
 
