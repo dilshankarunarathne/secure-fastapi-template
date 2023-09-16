@@ -48,6 +48,10 @@ pip install -r requirements.txt
 3. Create a MySQL database
 
 ```bash
+mysql -u root -p
+```
+
+```sql
 
 ## Contributing
 
