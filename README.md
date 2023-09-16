@@ -31,6 +31,7 @@ identification and attendance management.
 - pip 20.0 or higher
 - fastapi
 - uvicorn
+- 
 
 ## Contributing
 
