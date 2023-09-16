@@ -30,6 +30,7 @@ identification and attendance management.
 - Python 3.8 or higher
 - pip 20.0 or higher
 - fastapi
+- 
 
 ## Contributing
 
