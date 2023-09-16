@@ -42,6 +42,8 @@ git clone https://github.com/dilshankarunarathne/secure-fastapi-template.git
 2. Install the dependencies
 
 ```bash
+pip install -r requirements.txt
+```
 
 ## Contributing
 
