@@ -58,6 +58,21 @@ CREATE DATABASE fastapi;
 4. Create a `.env` file in the root directory and add the following environment variables
 
 ```bash
+MYSQL_USER="your mysql user"
+MYSQL_PASSWORD="your mysql password"
+MYSQL_HOST="localhost"
+MYSQL_DATABASE="fastapi"
+MYSQL_PORT=3306
+```
+
+5. Run the project
+
+```bash
+uvicorn main:app --reload
+```
+
+6. Open the local URL in a browser to access the Swagger UI
+
 
 ## Contributing
 
