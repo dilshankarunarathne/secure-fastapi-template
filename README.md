@@ -73,6 +73,9 @@ uvicorn main:app --reload
 
 6. Open the local URL in a browser to access the Swagger UI
 
+```bash
+http://
+```
 
 ## Contributing
 
