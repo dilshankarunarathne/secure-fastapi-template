@@ -45,6 +45,8 @@ git clone https://github.com/dilshankarunarathne/secure-fastapi-template.git
 pip install -r requirements.txt
 ```
 
+
+
 ## Contributing
 
 If you'd like to contribute to this project, please check the contribution guidelines for more information.
