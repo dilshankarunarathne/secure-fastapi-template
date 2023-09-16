@@ -15,7 +15,8 @@ The REST API for student registration and attendance management system, final ye
 
 ## Description
 
-This is a template repository for a FastAPI back-end project. It is intended to be used as a starting point for a new project. 
+This is a template repository for a FastAPI back-end project. It is intended to be used as a starting point for a new project.
+
 
 ## Installation
 
