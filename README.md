@@ -33,7 +33,7 @@ identification and attendance management.
 - uvicorn
 - pydantic
 - jose
-- 
+- passlib
 
 ## Contributing
 
