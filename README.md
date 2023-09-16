@@ -36,7 +36,8 @@ It has OAuth2 authentication and JWT token generation. It also has a basic user 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/dilshankarunarathne/secure-fastapi-template
+git clone https://github.com/dilshankarunarathne/secure-fastapi-template.git
+```
 
 ## Contributing
 
