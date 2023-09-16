@@ -74,7 +74,7 @@ uvicorn main:app --reload
 6. Open the local URL in a browser to access the Swagger UI
 
 ```bash
-http://
+http://127.0.0.1:8000/auth/login
 ```
 
 ## Contributing
