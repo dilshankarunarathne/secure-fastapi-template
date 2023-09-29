@@ -11,6 +11,6 @@ dao = UserDAO(
 )
 try:
     dao.connect()
-    print("Herb DB connection successful")
+    print("User DB connection successful")
 except Exception as e:
-    print("Herb DB (user) connection error:", e)
+    print("User DB (user) connection error:", e)
